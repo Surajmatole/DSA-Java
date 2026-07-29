@@ -1,21 +1,20 @@
 # DSA-Java 🚀
 
-This repository contains my Java solutions, notes, and practice while learning Data Structures and Algorithms.
+A collection of my Java solutions, notes, and practice programs while learning Data Structures and Algorithms.
 
-## Goals
+## 🎯 Goals
 
-- Strengthen problem-solving skills
+- Build strong problem-solving skills
 - Master Java fundamentals
 - Prepare for coding interviews
-- Build strong DSA concepts
+- Write clean and efficient code
 
-## Progress
+## 🛠️ Tech Stack
 
-- [ ] Flowcharts & Pseudocode
-- [ ] Variables & Data Types
-- [ ] Operators
-- [ ] Conditional Statements
-- [ ] Loops
-- [ ] Patterns
-- [ ] Functions & Methods
-- [ ] Arrays
+- Java
+- Git
+- GitHub
+
+---
+⭐ Consistency over perfection.
+
